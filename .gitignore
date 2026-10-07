@@ -1,0 +1,5 @@
+.factory/
+dist/
+__pycache__/
+*.pyc
+*.py[cod]
